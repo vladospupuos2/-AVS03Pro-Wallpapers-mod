@@ -1,0 +1,9 @@
+
+id = "vpp_wallpapers"
+
+# Metadata
+[meta]
+name = "VPP Wallpapers"
+version = "1.0.0"
+authors = ["Vladospupuos"]
+description = "Allows to load your own Wallpapers"
