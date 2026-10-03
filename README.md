@@ -1,4 +1,4 @@
-# VPP Wallpapers / Обои для VPP
+# VPP Wallpapers
 
 A mod for **Antivirus Survivors 2003 Professional** that allows you to load custom wallpapers into the game.
 
